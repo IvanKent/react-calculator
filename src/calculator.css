@@ -1,0 +1,14 @@
+.calcContainer{
+    display: flex;
+    flex-direction: column;
+}
+.calcRowContainer{
+    display: flex;
+}
+
+button{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    font-size: 30px;
+}
